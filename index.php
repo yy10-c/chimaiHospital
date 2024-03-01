@@ -14,7 +14,7 @@
         <form method="post" action="p2.php">
             <div class="form-group">
                 <label for="ProjectName">研究案名</label>
-                <input type="text" class="form-control" id="ProjectName" name="account">
+                <input type="text" class="form-control" id="ProjectName" name="ProjectName">
                 <label for="HospitalID">醫院編號</label>
                 <input type="text" class="form-control" id="HospitalID" name="HospitalID">
             </div>
